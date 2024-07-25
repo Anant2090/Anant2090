@@ -8,7 +8,7 @@
 * 🌍  I'm based in **Pune**
 * 🧠 I have done  DSA,Advance DSA and Dynamic Programming (If you want all codes and notes message me on my Mail) 
 * ✉️  You can contact me at [assherkhane32@gmail.com](mailto:assherkhane32@gmail.com)
-* 🧠 I am an **open-source enthusiast** and an aspiring **Full Stack BlockChain Developer** along with other skills like C, C++, Javascript,Solidity,Web3,Truffle.
+* 🧠 I am an **open-source enthusiast** and an aspiring **Full Stack BlockChain Developer** along with other skills like C, C++,,Tyepescript,Rust, HTML.CSS,Javascript,Solidity,Web3,Hardhat,Web3.js,Thirdweb(SDK).
 * 🌱 I’m currently focusing on **DSA & Blockchain Development**
 * 👯 I’m looking forward to **be a part of various interesting projects.**
 * 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
