@@ -6,6 +6,7 @@
 **I am currently pursuing my B Tech degree in Compute Science Engineering from Pune Vidhyarthi Griha's College of Engineering and Technology,Pune**
 
 * 🌍  I'm based in **Pune**
+* 🧠 I have done  DSA,Advance DSA and Dynamic Programming (If you want all codes and notes message me on my Mail) 
 * ✉️  You can contact me at [assherkhane32@gmail.com](mailto:assherkhane32@gmail.com)
 * 🧠 I am an **open-source enthusiast** and an aspiring **Full Stack BlockChain Developer** along with other skills like C, C++, Javascript,Solidity,Web3,Truffle.
 * 🌱 I’m currently focusing on **DSA & Blockchain Development**
